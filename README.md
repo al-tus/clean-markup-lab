@@ -32,7 +32,7 @@ A learning project focused on improving semantic HTML, mastering the BEM methodo
 ## 📦 Installation & Usage
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/al-tus/clean-markup-lab
 cd project
 ```
 
